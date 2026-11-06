@@ -1,1 +1,2 @@
-titulo=Blog da turma
+titulo=Blog do curso
+
